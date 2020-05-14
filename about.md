@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: COVID-19
+permalink: /covid/
 ---
 
-Some information about you!
+Some information about COVID-19!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include any other types of information.
 
 ### Contact me
 
