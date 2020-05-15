@@ -19,7 +19,7 @@ footer-links:
   dribbble:
   email: oneworld@mocanyc.org
   facebook: mocanyc
-  flickr: https://www.flickr.com/photos/mocamuseum/
+  flickr: mocamuseum
   github: 
   instagram: mocanyc
   linkedin:
@@ -27,7 +27,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: mocanyc
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: http://www.youtube.com/mocanyc
+  youtube: mocanyc
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
